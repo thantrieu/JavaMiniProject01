@@ -1,0 +1,24 @@
+B19DCCN123
+Tran Van Hung
+21
+3.21
+B19DCCN232
+Ly Thi Thu Huong
+22
+3.36
+B20DCCN336
+Le Huyen Trang
+21
+3.56
+B20DCCN155
+Tran Thanh Trung
+21
+3.12
+B20DCCN112
+Lee Dong Juane
+22
+3.14
+B21DCCN217
+Nguyen Thi Anh Quyen
+21
+3.25
